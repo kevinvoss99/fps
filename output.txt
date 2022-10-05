@@ -1,0 +1,664 @@
+Starting server on port 5556
+C:\Users\marci\Desktop\BA-CODE\BA_Julius_Bartels_Unity_Java_Projekt\BA_Julius_Bartels_Unity_Java_Projekt\CBRS\CBRS.prj
+Loading file C:\Users\marci\Desktop\BA-CODE\BA_Julius_Bartels_Unity_Java_Projekt\BA_Julius_Bartels_Unity_Java_Projekt\CBRS\CBRS.prj
+Imported 0 instances.
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":1,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.73982108484915
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":1,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":false,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":1,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 78.28813612588127
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":1,"distanceToEnemy":2,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":2,"ownHealth":1,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=2, lastPosition=2, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 99.93551853171542
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":2,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=2, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.71783484655843
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":4,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":2,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=2, equippedWeapon=Pistol, currentAmmu=4, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.73982108484915
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":4,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":4,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=4, equippedWeapon=Pistol, currentAmmu=4, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.73982108484915
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":8,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":4,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=4, equippedWeapon=Pistol, currentAmmu=8, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Following plan was not permitted: CollectItem<health>;Shoot
+counter: 1
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 82.19901111827934
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":8,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=8, equippedWeapon=Pistol, currentAmmu=8, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Following plan was not permitted: CollectItem<health>;Shoot
+counter: 1
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 82.19901111827934
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":8,"currentOverallAmmu":1,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":false,"isEnemyVisible":false,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=false, ownHealth=8, equippedWeapon=Pistol, currentAmmu=8, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+cA: few
+coA: full
+Due to the situation, I would do the following: Reload
+Sim is: 93.40412759428266
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":false,"distanceToEnemy":8,"lastPosition":2,"isEnemyAlive":false,"ownHealth":4,"equippedWeapon":"Machine Gun","currentAmmu":8,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":true,"isCoverNeeded":false,"isCovered":false,"weaponDistance":2,"ammunitionDistance":2,"healthDistance":2,"coverDistance":8}},"plan":{"actionsAsString":"Reload","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":2,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":false,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=true, ownHealth=8, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+cA: full
+coA: much
+Reload abgelehnt
+Following plan was not permitted: Reload
+counter: 1
+Following plan was not permitted: CollectItem<health>
+counter: 2
+Following plan was not permitted: CollectItem<health>;Shoot
+counter: 3
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 49.95330738281143
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":2,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":2,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":2,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":false,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=true, ownHealth=8, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=2, healthDistance=2, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+cA: full
+coA: much
+Reload abgelehnt
+Following plan was not permitted: Reload
+counter: 1
+Due to the situation, I would do the following: CollectItem<health>
+Sim is: 90.01140769851385
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":false,"distanceToEnemy":2,"lastPosition":8,"isEnemyAlive":false,"ownHealth":4,"equippedWeapon":"Pistol","currentAmmu":4,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":true,"isCoverNeeded":false,"isCovered":false,"weaponDistance":2,"ammunitionDistance":4,"healthDistance":2,"coverDistance":8}},"plan":{"actionsAsString":"CollectItem\u003chealth\u003e","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":2,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":2,"distanceToEnemy":2,"equippedWeapon":"Pistol","healthDistance":2,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":2,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=2, lastPosition=2, isEnemyAlive=true, ownHealth=8, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=2, healthDistance=2, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: CollectItem<health>;Shoot
+Sim is: 96.9448174093996
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":4,"equippedWeapon":"Pistol","currentAmmu":4,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":true,"isCoverNeeded":false,"isCovered":false,"weaponDistance":1,"ammunitionDistance":1,"healthDistance":1,"coverDistance":8}},"plan":{"actionsAsString":"CollectItem\u003chealth\u003e;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":2,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":2,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":2,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=8, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=2, healthDistance=2, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: CollectItem<health>;Shoot
+Sim is: 95.4036117457594
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":4,"equippedWeapon":"Pistol","currentAmmu":4,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":true,"isCoverNeeded":false,"isCovered":false,"weaponDistance":1,"ammunitionDistance":1,"healthDistance":1,"coverDistance":8}},"plan":{"actionsAsString":"CollectItem\u003chealth\u003e;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":2,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":2,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":2,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":16,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=16, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=2, healthDistance=2, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: CollectItem<health>;Shoot
+Sim is: 95.4036117457594
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":4,"equippedWeapon":"Pistol","currentAmmu":4,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":true,"isCoverNeeded":false,"isCovered":false,"weaponDistance":1,"ammunitionDistance":1,"healthDistance":1,"coverDistance":8}},"plan":{"actionsAsString":"CollectItem\u003chealth\u003e;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":1,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":false,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":1,"weaponDistance":2}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=2, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: CollectItem<weapon>;SwitchWeapon
+Sim is: 88.52577107380948
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":false,"distanceToEnemy":8,"lastPosition":2,"isEnemyAlive":false,"ownHealth":1,"equippedWeapon":"Pistol","currentAmmu":1,"currentOverallAmmu":2,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":2,"ammunitionDistance":2,"healthDistance":4,"coverDistance":8}},"plan":{"actionsAsString":"CollectItem\u003cweapon\u003e;SwitchWeapon","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":2,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":1,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":1,"weaponDistance":2}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=2, ammunitionDistance=2, healthDistance=1, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: Shoot;CollectItem<weapon>;SwitchWeapon
+Sim is: 97.54176653263377
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":1,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"Pistol","currentAmmu":1,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":1,"ammunitionDistance":2,"healthDistance":4,"coverDistance":8}},"plan":{"actionsAsString":"Shoot;CollectItem\u003cweapon\u003e;SwitchWeapon","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":1,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":1,"weaponDistance":2}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=2, ammunitionDistance=8, healthDistance=1, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: Shoot;CollectItem<weapon>;SwitchWeapon
+Sim is: 97.497699773424
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":1,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"Pistol","currentAmmu":1,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":1,"ammunitionDistance":2,"healthDistance":4,"coverDistance":8}},"plan":{"actionsAsString":"Shoot;CollectItem\u003cweapon\u003e;SwitchWeapon","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":1,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":1,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":1,"weaponDistance":1}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=1, ammunitionDistance=1, healthDistance=1, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: Shoot;CollectItem<weapon>;SwitchWeapon
+Sim is: 99.67717552686864
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":1,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"Pistol","currentAmmu":1,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":1,"ammunitionDistance":2,"healthDistance":4,"coverDistance":8}},"plan":{"actionsAsString":"Shoot;CollectItem\u003cweapon\u003e;SwitchWeapon","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":1,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":1,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":1,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=1, healthDistance=1, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.51973564211389
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":1,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":2,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=2, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=1, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.71783484655843
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":4,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":2,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=2, equippedWeapon=Pistol, currentAmmu=4, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.73982108484915
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":4,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":4,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=4, equippedWeapon=Pistol, currentAmmu=4, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.73982108484915
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":4,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":4,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=4, equippedWeapon=Pistol, currentAmmu=4, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Following plan was not permitted: CollectItem<health>;Shoot
+counter: 1
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 82.21686300493099
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":4,"currentOverallAmmu":1,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=8, equippedWeapon=Pistol, currentAmmu=4, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Following plan was not permitted: CollectItem<health>;Shoot
+counter: 1
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 82.21686300493099
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":4,"currentOverallAmmu":1,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":false,"isEnemyVisible":false,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=false, ownHealth=8, equippedWeapon=Pistol, currentAmmu=4, currentOverallAmmu=1, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+cA: middle
+coA: full
+Due to the situation, I would do the following: Reload
+Sim is: 93.37081062243826
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":false,"distanceToEnemy":8,"lastPosition":2,"isEnemyAlive":false,"ownHealth":4,"equippedWeapon":"Machine Gun","currentAmmu":8,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":true,"isCoverNeeded":false,"isCovered":false,"weaponDistance":2,"ammunitionDistance":2,"healthDistance":2,"coverDistance":8}},"plan":{"actionsAsString":"Reload","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":2,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":false,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=true, ownHealth=8, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+cA: full
+coA: much
+Reload abgelehnt
+Following plan was not permitted: Reload
+counter: 1
+Following plan was not permitted: CollectItem<health>
+counter: 2
+Following plan was not permitted: CollectItem<health>;Shoot
+counter: 3
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 49.95330738281143
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":1,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":2,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":1,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":false,"isHealthNeeded":true,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":8,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=true, ownHealth=8, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=true, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=1, healthDistance=1, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isHealthNeeded to: 1000
+sett attr weight for: distanceToHealth to: 100
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: CollectItem<health>;Shoot
+Sim is: 90.01140769851385
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":4,"equippedWeapon":"Pistol","currentAmmu":4,"currentOverallAmmu":4,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":true,"isCoverNeeded":false,"isCovered":false,"weaponDistance":1,"ammunitionDistance":1,"healthDistance":1,"coverDistance":8}},"plan":{"actionsAsString":"CollectItem\u003chealth\u003e;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":1,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":2,"distanceToEnemy":8,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":false,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":8,"ownHealth":1,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=false, distanceToEnemy=8, lastPosition=8, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=1, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 100
+sett attr weight for: isEnemyVisible to: 100
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 78.16685311560268
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":1,"coverDistance":8,"currentAmmu":1,"currentOverallAmmu":2,"distanceToEnemy":2,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":2,"ownHealth":1,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=2, lastPosition=2, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=1, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=1, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 99.91401546131445
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":2,"distanceToEnemy":2,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":2,"ownHealth":1,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=2, lastPosition=2, isEnemyAlive=true, ownHealth=1, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 99.91401546131445
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
+clientSentence: {"situation":{"player":"CBR Player","playerStatus":{"ammunitionDistance":8,"coverDistance":8,"currentAmmu":2,"currentOverallAmmu":2,"distanceToEnemy":1,"equippedWeapon":"Pistol","healthDistance":8,"isAmmunitionNeeded":false,"isCoverNeeded":true,"isCovered":false,"isEnemyAlive":true,"isEnemyVisible":true,"isHealthNeeded":false,"isWeaponNeeded":true,"lastPosition":1,"ownHealth":2,"weaponDistance":8}}}
+Received in java: Request [situation=Situation [player=CBR Player, playerStatus=Status [isEnemyVisible=true, distanceToEnemy=1, lastPosition=1, isEnemyAlive=true, ownHealth=2, equippedWeapon=Pistol, currentAmmu=2, currentOverallAmmu=2, isWeaponNeeded=true, isAmmunitionNeeded=false, isHealthNeeded=false, isCoverNeeded=true, isCovered=false, weaponDistance=8, ammunitionDistance=8, healthDistance=8, coverDistance=8]]]
+executing retrieval...
+sett attr weight for: plan to: 0
+sett attr weight for: quality to: 0
+sett attr weight for: isCovered to: 0
+sett attr weight for: isCoverNeeded to: 0
+sett attr weight for: distanceToCover to: 0
+sett attr weight for: isWeaponNeeded to: 100
+sett attr weight for: distanceToWeapon to: 100
+sett attr weight for: isHealthNeeded to: 10
+sett attr weight for: distanceToHealth to: 10
+sett attr weight for: isEnemyAlive to: 1000
+sett attr weight for: isEnemyVisible to: 1000
+sett attr weight for: distanceToEnemy to: 100
+counter: 0
+Due to the situation, I would do the following: MoveTo;Shoot
+Sim is: 97.69584366031245
+CB Size: 9
+ToC: {"situation":{"player":"CBR Player","playerStatus":{"isEnemyVisible":true,"distanceToEnemy":2,"lastPosition":2,"isEnemyAlive":true,"ownHealth":1,"equippedWeapon":"_unknown_","currentAmmu":4,"currentOverallAmmu":1,"isWeaponNeeded":true,"isAmmunitionNeeded":true,"isHealthNeeded":false,"isCoverNeeded":false,"isCovered":false,"weaponDistance":8,"ammunitionDistance":4,"healthDistance":8,"coverDistance":8}},"plan":{"actionsAsString":"MoveTo;Shoot","progress":1}}
+toC sent!
